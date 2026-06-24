@@ -7,3 +7,4 @@ cryptography
 bcrypt
 python-dotenv
 email-validator
+python-multipart
